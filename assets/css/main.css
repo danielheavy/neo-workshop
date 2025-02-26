@@ -2676,7 +2676,7 @@ input, select, textarea {
 	#banner {
 		background-image: url("../../images/bannerNEO2.jpg");
 		background-position: center center;
-		background-size: cover;
+		background-size: contain;
 		height: 35em;
 		text-align: center;
 		position: relative;
