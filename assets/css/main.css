@@ -2677,6 +2677,7 @@ input, select, textarea {
 		background-image: url("../../images/bannerNEO2.jpg");
 		background-position: center center;
 		background-size: contain;
+		background-repeat: no-repeat;
 		height: 35em;
 		text-align: center;
 		position: relative;
