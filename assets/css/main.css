@@ -3332,6 +3332,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
+				background-image: url("../../images/bannerNEO2-SM.jpg");
 				height: 20em;
 			}
 
