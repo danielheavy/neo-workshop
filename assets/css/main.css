@@ -2676,9 +2676,9 @@ input, select, textarea {
 		}
 
 /* Banner */
-
+/*
 	#banner {
-		/* background-image: url("../../images/bannerNEO2.jpg"); */
+		background-image: url("../../images/bannerNEO2.jpg");
 		background-image: url("../../images/bannerNEO2027.png");
 		background-position: center center;
 		background-size: cover;
@@ -2686,6 +2686,22 @@ input, select, textarea {
 		height: 35em;
 		text-align: center;
 		position: relative;
+	}
+*/
+
+
+	#banner {
+	    background-image: url("../../images/bannerNEO2027.png");
+	    background-position: center center;
+	    background-size: contain;  
+	    background-repeat: no-repeat;
+	    width: 100%;
+	    max-width: 1400px; 
+	    height: auto;
+	    aspect-ratio: 1200 / 350; 
+	    margin: 0 auto; 
+	    text-align: center;
+	    position: relative;
 	}
 
 		/*#banner header {
